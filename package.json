@@ -1,0 +1,11 @@
+{
+  "name": "json-sqlite-engine-promise-wrapper-wip",
+  "version": "0.0.1-dev",
+  "description": "Promise wrapper for cordova-json-sqlite-memory-engine-pro-wip-free",
+  "main": "json-sqlite-engine-promise-wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher J. Brody <chris@brody.consulting>",
+  "license": "MIT"
+}
